@@ -1,0 +1,15 @@
+{
+  "name": "Lyralume.VizVid",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase",
+    "VRC.SDK3",
+    "Unity.TextMeshPro",
+    "Lyralume.Runtime",
+    "JLChnToZ.VVMW",
+    "VRC.Udon.Serialization.OdinSerializer",
+    "AudioLink",
+    "JLChnToZ.VRC.Foundation"
+  ]
+}

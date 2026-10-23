@@ -1,0 +1,13 @@
+{
+  "name": "Lyralume.Fume",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase",
+    "VRC.SDK3",
+    "Unity.TextMeshPro",
+    "Lyralume.Runtime",
+    "AudioLink",
+    "VRC.Udon.Serialization.OdinSerializer"
+  ]
+}

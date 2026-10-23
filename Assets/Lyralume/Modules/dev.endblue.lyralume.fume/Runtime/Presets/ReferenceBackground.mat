@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReferenceBackground
+  m_Shader: {fileID: 4800000, guid: d99e39bf0a2cc0247a6392e474ab1b89, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BassTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CoverTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AccentBlend: 0
+    - _BassEnabled: 0
+    - _CoverBlend: 0
+    - _CoverBlur: 0.14
+    - _CoverStrength: 0.22
+    - _GeometryStrength: 0.8
+    - _GrainStrength: 0.0015
+    - _HighMidStarStrength: 0.8
+    - _InterludeAmount: 0
+    - _LyricFocusActive: 1
+    - _MotionStrength: 0.65
+    - _ParallaxStrength: 0.04
+    - _SongTime: 2.5
+    - _StageY: -1000
+    - _TrebleGlintStrength: 0.9
+    m_Colors:
+    - _AccentColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LyricFocus: {r: -17.975, g: 0.0175, b: 0.05, a: 0.035}
+    - _StageView: {r: -16.775, g: -0.015014648, b: 13.155556, a: 7.4}
+  m_BuildTextureStacks: []

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReferenceGlyphs
+  m_Shader: {fileID: 4800000, guid: b30d0d8d3ec46af4d95995c707f50ca5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: -2409012501626648111, guid: 0e455c4cb233450aa6ea944efbc12723, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StatusBrandTex:
+        m_Texture: {fileID: 2800000, guid: fdc073c884974cd8a33e800aa4619e9d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AccentBlend: 0
+    - _ActiveColorStrength: 0.78
+    - _AfterglowSeconds: 1.8
+    - _ColorReleaseSeconds: 0.55
+    - _EndOpacity: 1
+    - _EndingProgress: 0
+    - _FinalLineHold: 0
+    - _GlowStrength: 0.16
+    - _HistoryLayerStrength: 1
+    - _HistoryOpacity: 0.055
+    - _InterludeAmount: 0
+    - _KeywordColorStrength: 0.98
+    - _KeywordReleaseSeconds: 1.2
+    - _LoadOpacity: 1
+    - _ParagraphRetreat: 0.015
+    - _PendingOpacity: 0.018
+    - _PrintDuration: 0.16
+    - _PrintStrength: 0.65
+    - _RecentHistoryOpacity: 0.38
+    - _RefrainColorStrength: 0.92
+    - _RefrainHalo: 0.055
+    - _SheenStrength: 0.09
+    - _SongTime: 0
+    - _StageY: -1000
+    - _StatusBrandOpacity: 1
+    - _SustainGlow: 0.09
+    m_Colors:
+    - _AccentColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

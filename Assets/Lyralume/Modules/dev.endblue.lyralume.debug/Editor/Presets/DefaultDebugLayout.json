@@ -1,0 +1,4409 @@
+{
+  "items": [
+    {
+      "key": "Screen",
+      "name": "Screen · 左側預覽",
+      "caption": "",
+      "visualMode": 0,
+      "orientation": 0,
+      "useText": 0,
+      "position": {
+        "x": -0.6499998569488525,
+        "y": 0.08000004291534424,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 0.001500000013038516,
+        "y": 0.001500000013038516,
+        "z": 0.001500000013038516
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "nodes": [
+        {
+          "path": "",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": -0.6499999761581421,
+            "y": 0.07999999821186066,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.001500000013038516,
+            "y": 0.001500000013038516,
+            "z": 0.001500000013038516
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 1100.0,
+            "y": 650.0
+          },
+          "offsetMin": {
+            "x": -550.6500244140625,
+            "y": -324.9200134277344
+          },
+          "offsetMax": {
+            "x": 549.3499755859375,
+            "y": 325.0799865722656
+          }
+        },
+        {
+          "path": "Background",
+          "materialGuid": "35630e38b4e5ffb40b44ec5348b4333f",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.02500000037252903,
+            "g": 0.02500000037252903,
+            "b": 0.03999999910593033,
+            "a": 0.9800000190734863
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Title",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "LYRALUME · OVERVIEW",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 25.0,
+          "alignment": 257,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 292.5,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.8999999761581421
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": -40.0,
+            "y": -16.0
+          },
+          "offsetMin": {
+            "x": 20.0,
+            "y": 8.0
+          },
+          "offsetMax": {
+            "x": -20.0,
+            "y": -8.0
+          }
+        },
+        {
+          "path": "Preview Area",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.10000000149011612
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 0.8999999761581421
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": -40.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 20.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": -20.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Preview Area/Lyric Overview",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": -20.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 10.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": -10.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Overview Status",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": null,
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 18.0,
+          "alignment": 257,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -292.5,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 0.10000000149011612
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": -40.0,
+            "y": -16.0
+          },
+          "offsetMin": {
+            "x": 20.0,
+            "y": 8.0
+          },
+          "offsetMax": {
+            "x": -20.0,
+            "y": -8.0
+          }
+        }
+      ]
+    },
+    {
+      "key": "Runtime",
+      "name": "Runtime · 右側狀態",
+      "caption": "",
+      "visualMode": 0,
+      "orientation": 0,
+      "useText": 0,
+      "position": {
+        "x": 0.7300002574920654,
+        "y": 0.08000004291534424,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 0.001500000013038516,
+        "y": 0.001500000013038516,
+        "z": 0.001500000013038516
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "nodes": [
+        {
+          "path": "",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.7300000190734863,
+            "y": 0.07999999821186066,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.001500000013038516,
+            "y": 0.001500000013038516,
+            "z": 0.001500000013038516
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 680.0,
+            "y": 650.0
+          },
+          "offsetMin": {
+            "x": -339.2699890136719,
+            "y": -324.9200134277344
+          },
+          "offsetMax": {
+            "x": 340.7300109863281,
+            "y": 325.0799865722656
+          }
+        },
+        {
+          "path": "Background",
+          "materialGuid": "35630e38b4e5ffb40b44ec5348b4333f",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.02500000037252903,
+            "g": 0.02500000037252903,
+            "b": 0.03999999910593033,
+            "a": 0.9800000190734863
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Title",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "LYRALUME · RUNTIME",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 25.0,
+          "alignment": 257,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 292.5,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.8999999761581421
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": -40.0,
+            "y": -16.0
+          },
+          "offsetMin": {
+            "x": 20.0,
+            "y": 8.0
+          },
+          "offsetMax": {
+            "x": -20.0,
+            "y": -8.0
+          }
+        },
+        {
+          "path": "Runtime",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": null,
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 20.0,
+          "alignment": 257,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -32.5,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 0.8999999761581421
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": -40.0,
+            "y": -16.0
+          },
+          "offsetMin": {
+            "x": 20.0,
+            "y": 8.0
+          },
+          "offsetMax": {
+            "x": -20.0,
+            "y": -8.0
+          }
+        }
+      ]
+    },
+    {
+      "key": "ToggleOverview",
+      "name": "總覽開關",
+      "caption": "Layout",
+      "visualMode": 2,
+      "orientation": 0,
+      "useText": 1,
+      "position": {
+        "x": -186.66665649414062,
+        "y": -93.3333740234375,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1333.3333740234375,
+        "y": 1333.3333740234375,
+        "z": 1333.3333740234375
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": -4.371138828673793e-08
+      },
+      "nodes": [
+        {
+          "path": "",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.44999998807907104,
+            "y": 0.6000000238418579,
+            "z": 0.03999999910593033
+          },
+          "scale": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": -4.371138828673793e-08
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_2DMode",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "active": false,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.09000000357627869,
+            "y": 0.18000000715255737
+          },
+          "offsetMin": {
+            "x": -0.04500000178813934,
+            "y": -0.09000000357627869
+          },
+          "offsetMax": {
+            "x": 0.04500000178813934,
+            "y": 0.09000000357627869
+          }
+        },
+        {
+          "path": "Switch_2DMode/Switch_Trigger_2D",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -1.7695128917694092e-05,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "active": false,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_2DMode/Switch_Image_Area",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 90.0,
+            "y": 172.0
+          },
+          "offsetMin": {
+            "x": -45.0,
+            "y": -86.0
+          },
+          "offsetMax": {
+            "x": 45.0,
+            "y": 86.0
+          }
+        },
+        {
+          "path": "Switch_2DMode/Switch_Image_Area/Switch_Image",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0001043081283569336
+          },
+          "scale": {
+            "x": 1000.0,
+            "y": 1000.0,
+            "z": 1000.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.1720000058412552,
+            "y": 0.1720000058412552
+          },
+          "offsetMin": {
+            "x": -0.0860000029206276,
+            "y": -0.0860000029206276
+          },
+          "offsetMax": {
+            "x": 0.0860000029206276,
+            "y": 0.0860000029206276
+          }
+        },
+        {
+          "path": "Switch_2DMode/Slider_OuterFrame",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.5837254524230957,
+            "g": 0.5837254524230957,
+            "b": 0.5837254524230957,
+            "a": 0.6499999761581421
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 115.0,
+            "y": 215.0
+          },
+          "offsetMin": {
+            "x": -57.5,
+            "y": -107.5
+          },
+          "offsetMax": {
+            "x": 57.5,
+            "y": 107.5
+          }
+        },
+        {
+          "path": "Switch_2DMode/TextCanvas",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.06620000302791595,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.07999999821186066,
+            "y": 0.034999996423721313
+          },
+          "offsetMin": {
+            "x": -0.03999999910593033,
+            "y": -0.08370000123977661
+          },
+          "offsetMax": {
+            "x": 0.03999999910593033,
+            "y": -0.0487000048160553
+          }
+        },
+        {
+          "path": "Switch_2DMode/TextCanvas/Switch_Text",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "Layout",
+          "materialFileId": 0,
+          "color": {
+            "r": 0.5837254524230957,
+            "g": 0.5837254524230957,
+            "b": 0.5837254524230957,
+            "a": 0.6499999761581421
+          },
+          "fontSize": 0.012000000104308128,
+          "alignment": 258,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.017499998211860657,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.009999999776482582,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": -0.004999999888241291,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.004999999888241291,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/Switch_Trigger",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/Switch_Base",
+          "materialGuid": "e827e5f418724e74caf15e453ac2685b",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot/Switch_Button",
+          "materialGuid": "e827e5f418724e74caf15e453ac2685b",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot/Switch_Button/Switch_Button_Glass",
+          "materialGuid": "f70cdb60ee4d11c44adab323785345e4",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot/Switch_Image",
+          "materialGuid": "d43250991e0d7f6439af4b22e994fa89",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/TextCanvas",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.09814999997615814,
+            "z": 0.02865000069141388
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.07999999821186066,
+            "y": 0.019999999552965164
+          },
+          "offsetMin": {
+            "x": -0.03999999910593033,
+            "y": -0.10814999788999557
+          },
+          "offsetMax": {
+            "x": 0.03999999910593033,
+            "y": -0.08815000206232071
+          }
+        },
+        {
+          "path": "Switch_3DMode/TextCanvas/Switch_Text",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "Layout",
+          "materialFileId": 0,
+          "color": {
+            "r": 0.5837254524230957,
+            "g": 0.5837254524230957,
+            "b": 0.5837254524230957,
+            "a": 0.1568627506494522
+          },
+          "fontSize": 0.012000000104308128,
+          "alignment": 514,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "System",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "System/Switch_AudioSource",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "System/Switch_ProbeAnchor",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.029999999329447746
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "key": "ToggleNativeMode",
+      "name": "Layout / Real Stage",
+      "caption": "Real Stage",
+      "visualMode": 2,
+      "orientation": 0,
+      "useText": 1,
+      "position": {
+        "x": 33.33330154418945,
+        "y": -93.3333740234375,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1333.3333740234375,
+        "y": 1333.3333740234375,
+        "z": 1333.3333740234375
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": -4.371138828673793e-08
+      },
+      "nodes": [
+        {
+          "path": "",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.7799999713897705,
+            "y": 0.6000000238418579,
+            "z": 0.03999999910593033
+          },
+          "scale": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": -4.371138828673793e-08
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_2DMode",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "active": false,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.09000000357627869,
+            "y": 0.18000000715255737
+          },
+          "offsetMin": {
+            "x": -0.04500000178813934,
+            "y": -0.09000000357627869
+          },
+          "offsetMax": {
+            "x": 0.04500000178813934,
+            "y": 0.09000000357627869
+          }
+        },
+        {
+          "path": "Switch_2DMode/Switch_Trigger_2D",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -1.7695128917694092e-05,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "active": false,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_2DMode/Switch_Image_Area",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 90.0,
+            "y": 172.0
+          },
+          "offsetMin": {
+            "x": -45.0,
+            "y": -86.0
+          },
+          "offsetMax": {
+            "x": 45.0,
+            "y": 86.0
+          }
+        },
+        {
+          "path": "Switch_2DMode/Switch_Image_Area/Switch_Image",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0001043081283569336
+          },
+          "scale": {
+            "x": 1000.0,
+            "y": 1000.0,
+            "z": 1000.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.1720000058412552,
+            "y": 0.1720000058412552
+          },
+          "offsetMin": {
+            "x": -0.0860000029206276,
+            "y": -0.0860000029206276
+          },
+          "offsetMax": {
+            "x": 0.0860000029206276,
+            "y": 0.0860000029206276
+          }
+        },
+        {
+          "path": "Switch_2DMode/Slider_OuterFrame",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.5837254524230957,
+            "g": 0.5837254524230957,
+            "b": 0.5837254524230957,
+            "a": 0.6499999761581421
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 115.0,
+            "y": 215.0
+          },
+          "offsetMin": {
+            "x": -57.5,
+            "y": -107.5
+          },
+          "offsetMax": {
+            "x": 57.5,
+            "y": 107.5
+          }
+        },
+        {
+          "path": "Switch_2DMode/TextCanvas",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.06620000302791595,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.07999999821186066,
+            "y": 0.034999996423721313
+          },
+          "offsetMin": {
+            "x": -0.03999999910593033,
+            "y": -0.08370000123977661
+          },
+          "offsetMax": {
+            "x": 0.03999999910593033,
+            "y": -0.0487000048160553
+          }
+        },
+        {
+          "path": "Switch_2DMode/TextCanvas/Switch_Text",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "Real Stage",
+          "materialFileId": 0,
+          "color": {
+            "r": 0.5837254524230957,
+            "g": 0.5837254524230957,
+            "b": 0.5837254524230957,
+            "a": 0.6499999761581421
+          },
+          "fontSize": 0.012000000104308128,
+          "alignment": 258,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.017499998211860657,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.009999999776482582,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": -0.004999999888241291,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.004999999888241291,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/Switch_Trigger",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/Switch_Base",
+          "materialGuid": "e827e5f418724e74caf15e453ac2685b",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot/Switch_Button",
+          "materialGuid": "e827e5f418724e74caf15e453ac2685b",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot/Switch_Button/Switch_Button_Glass",
+          "materialGuid": "f70cdb60ee4d11c44adab323785345e4",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/ButtonRoot/Switch_Image",
+          "materialGuid": "d43250991e0d7f6439af4b22e994fa89",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Switch_3DMode/TextCanvas",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.09814999997615814,
+            "z": 0.02865000069141388
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.07999999821186066,
+            "y": 0.019999999552965164
+          },
+          "offsetMin": {
+            "x": -0.03999999910593033,
+            "y": -0.10814999788999557
+          },
+          "offsetMax": {
+            "x": 0.03999999910593033,
+            "y": -0.08815000206232071
+          }
+        },
+        {
+          "path": "Switch_3DMode/TextCanvas/Switch_Text",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "Real Stage",
+          "materialFileId": 0,
+          "color": {
+            "r": 0.5837254524230957,
+            "g": 0.5837254524230957,
+            "b": 0.5837254524230957,
+            "a": 0.1568627506494522
+          },
+          "fontSize": 0.012000000104308128,
+          "alignment": 514,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "System",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "System/Switch_AudioSource",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "System/Switch_ProbeAnchor",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.029999999329447746
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "key": "Zoom",
+      "name": "預覽縮放",
+      "caption": "Zoom",
+      "visualMode": 0,
+      "orientation": 0,
+      "useText": 1,
+      "position": {
+        "x": 213.3332977294922,
+        "y": -93.3333740234375,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1466.6666259765625,
+        "y": 1466.6666259765625,
+        "z": 1466.6666259765625
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": -4.371138828673793e-08
+      },
+      "nodes": [
+        {
+          "path": "",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 1.0499999523162842,
+            "y": 0.6000000238418579,
+            "z": 0.03999999910593033
+          },
+          "scale": {
+            "x": 2.200000047683716,
+            "y": 2.200000047683716,
+            "z": 2.200000047683716
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": -4.371138828673793e-08
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "====TargetSetting====",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_2DMode",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": false,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.0,
+            "w": 8.940696716308594e-08
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.03700000047683716,
+            "y": 0.20000000298023224
+          },
+          "offsetMin": {
+            "x": -0.01850000023841858,
+            "y": -0.10000000149011612
+          },
+          "offsetMax": {
+            "x": 0.01850000023841858,
+            "y": 0.10000000149011612
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_OuterFrame",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.5843137502670288,
+            "g": 0.5843137502670288,
+            "b": 0.5843137502670288,
+            "a": 0.6509804129600525
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 45.0,
+            "y": 215.0
+          },
+          "offsetMin": {
+            "x": -22.5,
+            "y": -107.5
+          },
+          "offsetMax": {
+            "x": 22.5,
+            "y": 107.5
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Frame",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.5843137502670288,
+            "g": 0.5843137502670288,
+            "b": 0.5843137502670288,
+            "a": 0.6509804129600525
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.005900000222027302,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 2.980230462412692e-08,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.1589999943971634,
+            "y": 0.1589999943971634
+          },
+          "offsetMin": {
+            "x": -0.0794999971985817,
+            "y": -0.07359999418258667
+          },
+          "offsetMax": {
+            "x": 0.0794999971985817,
+            "y": 0.08540000021457672
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Fill",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.658823549747467,
+            "g": 0.658823549747467,
+            "b": 0.658823549747467,
+            "a": 0.239215686917305
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.005899940151721239,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 2.980230462412692e-08,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.1589999943971634,
+            "y": 0.1589999943971634
+          },
+          "offsetMin": {
+            "x": -0.0794999971985817,
+            "y": -0.07360005378723145
+          },
+          "offsetMax": {
+            "x": 0.0794999971985817,
+            "y": 0.08539994060993195
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Handle",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.5843137502670288,
+            "g": 0.5843137502670288,
+            "b": 0.5843137502670288,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.06300000101327896,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 2.980230462412692e-08,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.02500000037252903,
+            "y": 0.02500000037252903
+          },
+          "offsetMin": {
+            "x": -0.012500000186264515,
+            "y": -0.0755000039935112
+          },
+          "offsetMax": {
+            "x": 0.012500000186264515,
+            "y": -0.05050000175833702
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/SliderSwitch_Image",
+          "materialGuid": "5ff58b5834336254ba18035329228206",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 0.5843137502670288,
+            "g": 0.5843137502670288,
+            "b": 0.5843137502670288,
+            "a": 0.6509804129600525
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.08619999885559082,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.024000000208616257,
+            "y": 0.024000000208616257
+          },
+          "offsetMin": {
+            "x": -0.012000000104308128,
+            "y": -0.0982000008225441
+          },
+          "offsetMax": {
+            "x": 0.012000000104308128,
+            "y": -0.07419999688863754
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Area",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 37.0,
+            "y": 200.0
+          },
+          "offsetMin": {
+            "x": -18.5,
+            "y": -100.0
+          },
+          "offsetMax": {
+            "x": 18.5,
+            "y": 100.0
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Area/Slider_TrackArea",
+          "materialGuid": "35630e38b4e5ffb40b44ec5348b4333f",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 5.900000095367432,
+            "z": 0.00011920928955078125
+          },
+          "scale": {
+            "x": 1000.0,
+            "y": 1000.0,
+            "z": 1000.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0370025634765625,
+            "y": 0.14499999582767487
+          },
+          "offsetMin": {
+            "x": -0.01850128173828125,
+            "y": 5.827499866485596
+          },
+          "offsetMax": {
+            "x": 0.01850128173828125,
+            "y": 5.972500324249268
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Area/Slider_TrackArea/SliderRange",
+          "materialGuid": "35630e38b4e5ffb40b44ec5348b4333f",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.1921568661928177
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": -0.01850128173828125,
+            "y": -0.07249999791383743,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_2DMode/Visual_Canvas/Slider_Text_2D",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "Zoom",
+          "materialFileId": 0,
+          "color": {
+            "r": 0.5843137502670288,
+            "g": 0.5843137502670288,
+            "b": 0.5843137502670288,
+            "a": 0.32549020648002625
+          },
+          "fontSize": 0.012000000104308128,
+          "alignment": 514,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.031099999323487282,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071068286895752,
+            "w": 0.7071068286895752
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.20000000298023224,
+            "y": 0.01850000023841858
+          },
+          "offsetMin": {
+            "x": -0.06890000402927399,
+            "y": -0.00925000011920929
+          },
+          "offsetMax": {
+            "x": 0.13109999895095825,
+            "y": 0.00925000011920929
+          }
+        },
+        {
+          "path": "Slider_3DMode",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/SliderSwitch_Base",
+          "materialGuid": "c386268e2c0c9844bb53424b0557d314",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/SliderSwitch_Lamp",
+          "materialGuid": "f5482596005ecd24b92ed5b921644f7a",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/SliderSwitch_Slider",
+          "materialGuid": "d722b367a8e95d340847da588782ba63",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.06283000111579895,
+            "z": 0.01730203814804554
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/SliderSwitch_Image",
+          "materialGuid": "35402286590625e44aae565b8a1c92fe",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -0.0856499969959259,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/Slider_Canvas",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.016429999843239784
+          },
+          "scale": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.0,
+            "w": 1.1920927533992653e-07
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 36.0,
+            "y": 200.0
+          },
+          "offsetMin": {
+            "x": -18.0,
+            "y": -100.0
+          },
+          "offsetMax": {
+            "x": 18.0,
+            "y": 100.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/Slider_Canvas/Slider_TrackArea",
+          "materialGuid": "35630e38b4e5ffb40b44ec5348b4333f",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 6.900000095367432,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 36.0,
+            "y": 140.0
+          },
+          "offsetMin": {
+            "x": -18.0,
+            "y": -63.099998474121094
+          },
+          "offsetMax": {
+            "x": 18.0,
+            "y": 76.9000015258789
+          }
+        },
+        {
+          "path": "Slider_3DMode/Slider_Canvas/Slider_TrackArea/SliderRange",
+          "materialGuid": "35630e38b4e5ffb40b44ec5348b4333f",
+          "text": "",
+          "materialFileId": 2100000,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.1921568661928177
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": -35.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_3DMode/Slider_Canvas/Slider_TrackArea/Slider_Text_3D",
+          "materialGuid": "00000000000000000000000000000000",
+          "text": "Zoom",
+          "materialFileId": 0,
+          "color": {
+            "r": 0.5843137502670288,
+            "g": 0.5843137502670288,
+            "b": 0.5843137502670288,
+            "a": 0.32549020648002625
+          },
+          "fontSize": 0.012000000104308128,
+          "alignment": 514,
+          "fontStyle": 0,
+          "position": {
+            "x": 31.099985122680664,
+            "y": -6.8999528884887695,
+            "z": 15.000000953674316
+          },
+          "scale": {
+            "x": 1000.0,
+            "y": 1000.0,
+            "z": 1000.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071068286895752,
+            "w": 0.7071068286895752
+          },
+          "active": true,
+          "rect": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "size": {
+            "x": 0.20000000298023224,
+            "y": 0.01850000023841858
+          },
+          "offsetMin": {
+            "x": 30.999984741210938,
+            "y": -6.909203052520752
+          },
+          "offsetMax": {
+            "x": 31.19998550415039,
+            "y": -6.890702724456787
+          }
+        },
+        {
+          "path": "Slider_System",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_System/SliderSwitch_AudioSource",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "path": "Slider_System/SliderSwitch_Pickup",
+          "materialGuid": "",
+          "text": "",
+          "materialFileId": 0,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "fontSize": 0.0,
+          "alignment": 0,
+          "fontStyle": 0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0034000277519226074,
+            "z": 0.016699792817234993
+          },
+          "scale": {
+            "x": 0.03414300084114075,
+            "y": 0.03414300084114075,
+            "z": 0.03414300084114075
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "active": true,
+          "rect": false,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "pivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "size": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "offsetMax": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

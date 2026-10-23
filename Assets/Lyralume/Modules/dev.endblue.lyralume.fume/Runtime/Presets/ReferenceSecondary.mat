@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReferenceSecondary
+  m_Shader: {fileID: 4800000, guid: b30d0d8d3ec46af4d95995c707f50ca5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: -2409012501626648111, guid: 0e455c4cb233450aa6ea944efbc12723, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AccentBlend: 0
+    - _AfterglowSeconds: 1.8
+    - _EndingProgress: 0
+    - _FinalLineHold: 0
+    - _GlowStrength: 0
+    - _HistoryOpacity: 0.055
+    - _InterludeAmount: 0
+    - _ParagraphRetreat: 0
+    - _PendingOpacity: 0.018
+    - _PrintDuration: 0.16
+    - _PrintStrength: 0
+    - _SheenStrength: 0
+    - _SongTime: 1
+    - _StageY: -1000
+    - _SustainGlow: 0
+    m_Colors:
+    - _AccentColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

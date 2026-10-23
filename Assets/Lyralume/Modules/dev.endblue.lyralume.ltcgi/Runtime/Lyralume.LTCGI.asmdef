@@ -1,0 +1,12 @@
+{
+  "name": "Lyralume.LTCGI",
+  "references": [
+    "Lyralume.Runtime",
+    "Lyralume.Fume",
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase",
+    "VRC.SDK3",
+    "VRC.Udon.Serialization.OdinSerializer"
+  ]
+}

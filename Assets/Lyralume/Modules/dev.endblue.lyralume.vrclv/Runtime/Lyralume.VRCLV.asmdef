@@ -1,0 +1,24 @@
+{
+  "name": "Lyralume.VRCLV",
+  "references": [
+    "Lyralume.Runtime",
+    "Lyralume.Fume",
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase",
+    "VRC.SDK3",
+    "VRC.Udon.Serialization.OdinSerializer",
+    "red.sim.LightVolumesUdon",
+    "red.sim.LightVolumes"
+  ],
+  "versionDefines": [
+    {
+      "name": "red.sim.lightvolumes",
+      "expression": "3.0.1",
+      "define": "LYRALUME_VRCLV"
+    }
+  ],
+  "defineConstraints": [
+    "LYRALUME_VRCLV"
+  ]
+}

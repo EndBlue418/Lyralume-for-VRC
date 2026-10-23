@@ -1,0 +1,22 @@
+{
+  "includePlatforms": [
+    "Editor"
+  ],
+  "references": [
+    "Lyralume.Runtime",
+    "Lyralume.Editor",
+    "Lyralume.Fume",
+    "UdonSharp.Runtime",
+    "UdonSharp.Editor",
+    "VRC.Udon",
+    "VRC.Udon.Serialization.OdinSerializer",
+    "VRC.SDKBase",
+    "Unity.TextMeshPro",
+    "Lyralume.VizVid",
+    "JLChnToZ.VVMW",
+    "JLChnToZ.VRC.Foundation",
+    "AudioLink",
+    "VRC.Udon.Editor"
+  ],
+  "name": "Lyralume.Fume.Editor"
+}

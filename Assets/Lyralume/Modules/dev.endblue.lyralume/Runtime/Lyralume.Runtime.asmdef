@@ -1,0 +1,11 @@
+{
+  "name": "Lyralume.Runtime",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase",
+    "VRC.SDK3",
+    "Unity.TextMeshPro",
+    "VRC.Udon.Serialization.OdinSerializer"
+  ]
+}

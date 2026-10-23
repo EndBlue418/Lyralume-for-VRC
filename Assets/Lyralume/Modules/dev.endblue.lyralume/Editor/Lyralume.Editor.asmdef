@@ -1,0 +1,16 @@
+{
+  "name": "Lyralume.Editor",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase",
+    "VRC.SDK3",
+    "Unity.TextMeshPro",
+    "Lyralume.Runtime",
+    "UdonSharp.Editor",
+    "VRC.Udon.Serialization.OdinSerializer"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
