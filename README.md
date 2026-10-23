@@ -11,7 +11,7 @@ Created by **EndBlue** · Assisted by Codex
 ## 安裝
 
 1. 在 Unity 2022.3 的 VRChat Worlds 專案安裝 Worlds SDK、VizVid 與 AudioLink。
-2. 到 [Releases](../../releases/latest) 下載 `.unitypackage`，匯入專案並等待編譯完成。
+2. 到 [Releases](https://github.com/EndBlue418/Lyralume-for-VRC/releases/latest) 下載 `.unitypackage`，匯入專案並等待編譯完成。
 3. 開啟 **Tools → Lyralume → 安裝與設定**。
 4. 選擇 VizVid 播放器與要使用的螢幕，再安裝。
 5. 設定自己的相容 API，儲存場景並執行 **Build & Test**。
@@ -32,6 +32,8 @@ Debug 可使用 LuraSwitch 2 控制，或選擇 Unity UI 版本。LTCGI、VRCLV�
 ## API 設定
 
 **本專案不提供預設伺服器，亦不包含後端服務。**
+
+可依 [Lyralume NCM API Proxy 的部署教學](https://github.com/EndBlue418/Lyralume-NCM-API-Proxy) 架設自己的服務：先 Fork 官方 NCM API，再 Fork Proxy。教學包含 Vercel 與同網域路由設定。
 
 自行設定相容服務的 HTTPS Base URL，以及 `/api/proxy`、`/api/udon` 路徑。原始音樂服務 API 不能直接替代此協定。未設定站點時，不會自動請求歌詞。
 
